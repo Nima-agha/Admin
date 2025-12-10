@@ -22,3 +22,8 @@
 ---
 
 ---##[🔗](https://nima-agha.github.io/Admin/) Live Demo
+
+---
+
+## Screenshot
+![image](<img width="1919" height="905" alt="Image" src="https://github.com/user-attachments/assets/a572b5d5-db34-4977-88ad-f1d429ee8f9a" />)
