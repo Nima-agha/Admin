@@ -1,5 +1,7 @@
 # Project: Clothing Store (React.js)
+
 ---
+
 ## 🚀 Features
 - Fully responsive design
 - Product cards
@@ -16,6 +18,7 @@
 - React.js
 - JavaScript
 - HTML & CSS
+  
+---
 
----## 🔗 Live Demo
-[Live Demo](https://nima-agha.github.io/Admin/)
+---##[🔗](https://nima-agha.github.io/Admin/) Live Demo
